@@ -1,0 +1,62 @@
+[
+    {
+    "title":"image1",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/1.jpeg",
+    "lat" : 50.45602,
+    "long" : 30.494074
+  },
+  {
+    "title":"image2",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/2.jpeg",
+    "lat" : 50.47602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image3",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/3.jpeg",
+    "lat" : 50.46602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image4",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/4.jpeg",
+    "lat" : 50.49602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image5",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/5.jpeg",
+    "lat" : 50.48602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image6",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/6.jpeg",
+    "lat" : 50.51602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image7",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/7.jpeg",
+    "lat" : 50.50602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image8",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/8.jpeg",
+    "lat" : 50.53602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image9",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/9.jpeg",
+    "lat" : 50.52602,
+    "long" : 30.494074
+  },
+   {
+    "title":"image10",
+    "url" : "https://dl.dropboxusercontent.com/u/1088066/C4Test/10.jpeg",
+    "lat" : 50.54602,
+    "long" : 30.494074
+  }
+  ]
